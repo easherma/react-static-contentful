@@ -1,4 +1,4 @@
-# React-Static - Contenful CMS Example
+# React-Static - Contentful CMS Example
 
 [React-Static](https://react-static.js.org/) Basic template with added configuration for use with Contentful CMS.
 
