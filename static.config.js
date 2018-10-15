@@ -1,4 +1,4 @@
-import fetchPosts from './src/contenful/fetchPosts'
+import fetchPosts from './src/contentful/fetchPosts'
 
 export default {
 
